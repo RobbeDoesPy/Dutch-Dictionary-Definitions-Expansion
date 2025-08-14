@@ -1,0 +1,19 @@
+--- ROUGE Scores ---
+{'rouge1': 0.37120620049403563, 'rouge2': 0.208173916091472, 'rougeL': 0.3493561229637877, 'rougeLsum': 0.3491799850287143}
+
+--- BLEU Score ---
+{'bleu': 0.10060304870202723, 'precisions': [0.40708259609713565, 0.2102568430528596, 0.1305566804772437, 0.09162486064659978], 'brevity_penalty': 0.5624058981156762, 'length_ratio': 0.6347064663661073, 'translation_length': 38997, 'reference_length': 61441}
+
+--- BERTScore ---
+   Average Precision: 0.7976
+      Average Recall: 0.7426
+          Average F1: 0.7675
+
+--- COMET-22 Score ---
+               score: 0.6369
+
+--- COMETkiwi Score ---
+               score: 0.6421
+
+--- XCOMET Score ---
+               score: 0.7100

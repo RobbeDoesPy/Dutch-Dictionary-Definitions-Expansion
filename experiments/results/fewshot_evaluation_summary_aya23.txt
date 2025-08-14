@@ -1,0 +1,17 @@
+Metrics Summary for aya-23 (few_shot)
+
+--- ROUGE Scores ---
+{'rouge1': 0.13184869951306688, 'rouge2': 0.03505550578234409, 'rougeL': 0.10037216309116666, 'rougeLsum': 0.10293815417521798}
+
+--- BLEU Score ---
+{'bleu': 0.011962383440307554, 'precisions': [0.0720041763969124, 0.016860632479335443, 0.006020851641941414, 0.0028014404897137696], 'brevity_penalty': 1.0, 'length_ratio': 7.575934636480526, 'translation_length': 465473, 'reference_length': 61441}
+
+--- BERTScore ---
+   Average Precision: 0.5981
+      Average Recall: 0.7111
+          Average F1: 0.6490
+
+--- COMET Scores ---
+            COMET-22: 0.6712
+           COMETkiwi: 0.7640
+              XCOMET: 0.4878

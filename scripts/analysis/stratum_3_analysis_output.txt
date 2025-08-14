@@ -1,0 +1,190 @@
+--- DETAILED COMPARISONS FOR SELECTED STRATUM 3 GROUPS ---
+
+================================================================================
+Genus Proxima: 'liefhebber'
+================================================================================
+------------------------------------------------------------
+Lemma: operaliefhebber
+Source (Short Definition): liefhebber van operamuziek
+Reference (Full Definition): iemand die veel van het spelen van en/of het luisteren naar operamuziek houdt
+------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned) (Scores: COMET-22: 0.8390, XCOMET: 0.7690):
+  -> iemand die veel van het zingen van opera en het bijbehorende muziekgenre houdt
+
+Output from Aya 101 (Few-Shot) (Scores: COMET-22: 0.8667, XCOMET: 0.9942):
+  Raw: Lange definitie: iemand die van operamuziek houdt
+  -> iemand die van operamuziek houdt
+
+--- Few-Shot Examples Used for This Entry ---
+  Example 1:
+    Lemma: operacriticus
+    Short: iemand die opera's recenseert
+    Long:  iemand die zich, voor zijn beroep of uit liefhebberij, bezighoudt met het kritisch bespreken van opera's en opera in het algemeen, vooral in de media
+  Example 2:
+    Lemma: operadocent
+    Short: docent opera
+    Long:  docent die operales geeft
+  Example 3:
+    Lemma: klassiekemuziekliefhebber
+    Short: liefhebber van klassieke muziek
+    Long:  iemand die van het spelen van en/of het luisteren naar klassieke muziek houdt
+---------------------------------------------
+------------------------------------------------------------
+Lemma: sportliefhebber
+Source (Short Definition): liefhebber van sport
+Reference (Full Definition): iemand die graag sport en/of veel van het kijken naar sport houdt
+------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned) (Scores: COMET-22: 0.8610, XCOMET: 0.9684):
+  -> iemand die veel van het beoefenen of volgen van sport houdt
+
+Output from Aya 101 (Few-Shot) (Scores: COMET-22: 0.8543, XCOMET: 1.0000):
+  -> Een sportliefhebber is iemand die van sport houdt.
+
+--- Few-Shot Examples Used for This Entry ---
+  Example 1:
+    Lemma: sportlustige
+    Short: iemand met sportlust
+    Long:  iemand die sportlust heeft
+  Example 2:
+    Lemma: sportlievend
+    Short: de sport liefhebbend
+    Long:  een voorliefde voor sport hebbend
+  Example 3:
+    Lemma: sportgek
+    Short: iemand met een voorliefde voor sport
+    Long:  iemand die een grote voorliefde heeft voor sport
+---------------------------------------------
+------------------------------------------------------------
+Lemma: taalliefhebber
+Source (Short Definition): liefhebber van taal
+Reference (Full Definition): iemand die veel van taal houdt en daar graag over spreekt en leest
+------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned) (Scores: COMET-22: 0.8093, XCOMET: 0.9128):
+  -> iemand die veel van taal en taalgebruik houdt
+
+Output from Aya 101 (Few-Shot) (Scores: COMET-22: 0.7481, XCOMET: 0.9962):
+  Raw: Lange definitie: iemand die van taal houdt.
+  -> iemand die van taal houdt.
+
+--- Few-Shot Examples Used for This Entry ---
+  Example 1:
+    Lemma: taalkundige
+    Short: beoefenaar van de taalkunde
+    Long:  iemand die zich voor zijn beroep bezighoudt met het bestuderen en beschrijven van taal
+  Example 2:
+    Lemma: afasie
+    Short: taalstoornis
+    Long:  gedeeltelijk of geheel onvermogen om letters, woorden en zinnen te begrijpen of te produceren als gevolg van hersenletsel
+  Example 3:
+    Lemma: taalmaatje
+    Short: iemand die helpt met taal
+    Long:  iemand die een niet-moedertaalspreker van een taal helpt om zich die taal goed eigen te maken door er geregeld langs te gaan, over allerlei alledaagse zaken te praten, te helpen met het invullen van formulieren en met het bezoeken van officiële instanties, met als doel dat de niet-moedertaalspreker zich steeds beter leert te redden in de taal en het taalmaatje op den duur niet meer nodig heeft om te kunnen functioneren
+---------------------------------------------
+------------------------------------------------------------
+Lemma: theaterliefhebber
+Source (Short Definition): liefhebber van theater
+Reference (Full Definition): iemand die veel van het spelen en/of bijwonen van theatervoorstellingen houdt
+------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned) (Scores: COMET-22: 0.8519, XCOMET: 0.9544):
+  -> iemand die veel van het bezoeken van het theater houdt
+
+Output from Aya 101 (Few-Shot) (Scores: COMET-22: 0.9154, XCOMET: 0.8755):
+  -> iemand die veel van het kijken naar en/of spelen in toneelstukken houdt
+
+--- Few-Shot Examples Used for This Entry ---
+  Example 1:
+    Lemma: toneelliefhebber
+    Short: liefhebber van toneel
+    Long:  iemand die veel van het kijken naar en/of spelen in toneelstukken houdt
+  Example 2:
+    Lemma: theaterdier
+    Short: iemand die graag in het theater optreedt
+    Long:  iemand die zich volkomen thuis voelt op het theaterpodium
+  Example 3:
+    Lemma: theatermaker
+    Short: iemand die theater maakt
+    Long:  iemand die voor zijn beroep theatervoorstellingen maakt
+---------------------------------------------
+
+
+================================================================================
+Genus Proxima: 'ologie'
+================================================================================
+------------------------------------------------------------
+Lemma: hematologie
+Source (Short Definition): medisch specialisme voor bloedziekten
+Reference (Full Definition): medisch specialisme dat zich bezighoudt met het onderzoek, de diagnose en behandeling van bloedziekten, en aandoeningen aan de bloedvormende organen en de lymfeklieren
+------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned) (Scores: COMET-22: 0.8857, XCOMET: 0.8990):
+  -> medisch specialisme dat zich bezighoudt met de diagnose, behandeling en het onderzoek van bloedziekten en bloedstoornissen
+
+Output from Aya 101 (Few-Shot) (Scores: COMET-22: 0.9293, XCOMET: 0.9946):
+  -> Hematologie is een medisch specialisme dat zich bezighoudt met de diagnose, behandeling en onderzoek van bloedziekten en aandoeningen aan de bloedvormende organen en de lymfeklieren.
+
+--- Few-Shot Examples Used for This Entry ---
+  Example 1:
+    Lemma: hematoloog
+    Short: arts-specialist voor bloedziekten
+    Long:  arts die is gespecialiseerd in de diagnose, behandeling en het onderzoek van bloedziekten en aandoeningen aan de bloedvormende organen en de lymfeklieren
+  Example 2:
+    Lemma: reumatologie
+    Short: medisch specialisme
+    Long:  wetenschap die zich bezighoudt met het ontstaan en de behandeling van reumatische aandoeningen
+  Example 3:
+    Lemma: hematologisch
+    Short: de hematologie betreffend
+    Long:  in bijwoordelijk gebruik: uit het oogpunt van de hematologie
+---------------------------------------------
+------------------------------------------------------------
+Lemma: nefrologie
+Source (Short Definition): medisch specialisme voor nierziekten
+Reference (Full Definition): medisch specialisme dat zich bezighoudt met het onderzoek, de diagnose en behandeling van nierziekten
+------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned) (Scores: COMET-22: 0.9639, XCOMET: 0.9703):
+  -> medisch specialisme dat zich bezighoudt met de diagnose, behandeling en het onderzoek van nierziekten
+
+Output from Aya 101 (Few-Shot) (Scores: COMET-22: 0.9766, XCOMET: 1.0000):
+  Raw: Lange definitie: medisch specialisme dat zich bezighoudt met het onderzoek, de diagnose en behandeling van nierziekten
+  -> medisch specialisme dat zich bezighoudt met het onderzoek, de diagnose en behandeling van nierziekten
+
+--- Few-Shot Examples Used for This Entry ---
+  Example 1:
+    Lemma: nefroloog
+    Short: nierspecialist
+    Long:  internist die is gespecialiseerd in de diagnose, behandeling en het onderzoek van nierziekten
+  Example 2:
+    Lemma: reumatologie
+    Short: medisch specialisme
+    Long:  wetenschap die zich bezighoudt met het ontstaan en de behandeling van reumatische aandoeningen
+  Example 3:
+    Lemma: urologie
+    Short: geneeskunde voor urinewegen e.d.
+    Long:  medisch specialisme dat zich bezighoudt met het onderzoek, de diagnose en behandeling van uitwendige nieraandoeningen zoals nierstenen of niergezwellen en van de ziekten of afwijkingen aan het urinewegstelsel bij man of vrouw en aan de mannelijke geslachtsorganen
+---------------------------------------------
+------------------------------------------------------------
+Lemma: pneumologie
+Source (Short Definition): medisch specialisme voor longziekten
+Reference (Full Definition): medisch specialisme dat zich bezighoudt met het onderzoek, de diagnose en behandeling van longziekten
+------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned) (Scores: COMET-22: 0.9238, XCOMET: 0.9297):
+  -> medisch specialisme dat zich bezighoudt met de diagnose, behandeling en het onderzoek van longziekten en ademhalingsproblemen
+
+Output from Aya 101 (Few-Shot) (Scores: COMET-22: 0.7562, XCOMET: 1.0000):
+  -> Pneumologie is het medisch specialisme voor longziekten.
+
+--- Few-Shot Examples Used for This Entry ---
+  Example 1:
+    Lemma: longstayer
+    Short: patiënt op een longstayafdeling
+    Long:  iemand die langdurig op een afdeling van een psychatrische instelling, meestal een tbs-kliniek, verblijft
+  Example 2:
+    Lemma: pneumonie
+    Short: longontsteking
+    Long:  ontsteking van de longblaasjes en het longweefsel daaromheen, veroorzaakt door een bacterie, virus of ander micro-organisme, bijvoorbeeld een schimmel
+  Example 3:
+    Lemma: reumatologie
+    Short: medisch specialisme
+    Long:  wetenschap die zich bezighoudt met het ontstaan en de behandeling van reumatische aandoeningen
+---------------------------------------------
+
+

@@ -1,0 +1,17 @@
+Metrics Summary for Geitje (few_shot)
+
+--- ROUGE Scores ---
+{'rouge1': 0.2461402973392436, 'rouge2': 0.10656335586964433, 'rougeL': 0.20452660174670265, 'rougeLsum': 0.2048423278108823}
+
+--- BLEU Score ---
+{'bleu': 0.05363315133443361, 'precisions': [0.1487665516492288, 0.056506470736435103, 0.03573578446511482, 0.027543965328827077], 'brevity_penalty': 1.0, 'length_ratio': 3.221643527937371, 'translation_length': 197941, 'reference_length': 61441}
+
+--- BERTScore ---
+   Average Precision: 0.6588
+      Average Recall: 0.7387
+          Average F1: 0.6955
+
+--- COMET Scores ---
+            COMET-22: 0.6703
+           COMETkiwi: 0.7204
+              XCOMET: 0.6504

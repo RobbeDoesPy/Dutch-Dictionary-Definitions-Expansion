@@ -1,0 +1,342 @@
+--- QUALITATIVE ANALYSIS SAMPLES ---
+
+--- OVERLAP ANALYSIS SUMMARY ---
+Initial top 10 lists had 1 overlapping item(s).
+Final unique items for analysis: 20
+------------------------------
+
+--- 20 UNIQUE SAMPLES FOR ANALYSIS (sorted by trigger score) ---
+
+================================================================================
+COMPARISON SAMPLE #1 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9766)
+Lemma: liefhebber
+Source (Short Definition): iemand die veel van iets of iemand houdt
+Reference (Full Definition): iemand die iets of iemand heel leuk of mooi vindt
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.8541, XCOMET = 0.9623
+  Prediction (Cleaned): iemand die veel van iets of iemand houdt
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9766, XCOMET = 1.0000
+  Raw Output: Lange definitie: iemand die iets of iemand heel leuk of mooi vindt.
+  Prediction (Cleaned): iemand die iets of iemand heel leuk of mooi vindt.
+
+================================================================================
+COMPARISON SAMPLE #2 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9740)
+Lemma: lichtgroen
+Source (Short Definition): met een lichtgroene kleur
+Reference (Full Definition): een lichtgroene kleur hebbend
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9853, XCOMET = 0.9508
+  Prediction (Cleaned): een lichtgroene kleur hebbend
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9740, XCOMET = 1.0000
+  Prediction (Cleaned): Een lichtgroene kleur hebbend.
+
+================================================================================
+COMPARISON SAMPLE #3 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9704)
+Lemma: zeefdruk
+Source (Short Definition): afdruk door zeefdruktechniek
+Reference (Full Definition): afdruk vervaardigd door de zeefdruktechniek
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9544, XCOMET = 0.9681
+  Prediction (Cleaned): afdruk vervaardigd volgens de zeefdruktechniek
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9704, XCOMET = 1.0000
+  Raw Output: Lange definitie: afdruk vervaardigd door zeefdruktechniek
+  Prediction (Cleaned): afdruk vervaardigd door zeefdruktechniek
+
+================================================================================
+COMPARISON SAMPLE #4 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9658)
+Lemma: ecoroman
+Source (Short Definition): roman over milieuproblematiek
+Reference (Full Definition): roman die over milieuproblematiek of andere milieuvraagstukken gaat
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.8813, XCOMET = 0.9449
+  Prediction (Cleaned): roman waarin milieuproblematiek centraal staat
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9658, XCOMET = 1.0000
+  Raw Output: Lange definitie: roman die over milieuproblematiek en andere milieuvraagstukken gaat
+  Prediction (Cleaned): roman die over milieuproblematiek en andere milieuvraagstukken gaat
+
+================================================================================
+COMPARISON SAMPLE #5 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9635)
+Lemma: muzikante
+Source (Short Definition): vrouwelijke muzikant
+Reference (Full Definition): vrouw die muziek maakt voor haar beroep of uit liefhebberij
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9550, XCOMET = 0.9643
+  Prediction (Cleaned): vrouw die muziek maakt, voor haar beroep of uit liefhebberij
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9652, XCOMET = 0.9983
+  Raw Output: Lange definitie: vrouw die voor haar beroep of uit liefhebberij muziek maakt
+  Prediction (Cleaned): vrouw die voor haar beroep of uit liefhebberij muziek maakt
+
+================================================================================
+COMPARISON SAMPLE #6 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9611)
+Lemma: Wageningse
+Source (Short Definition): vrouw uit Wageningen
+Reference (Full Definition): vrouw die afkomstig is uit Wageningen
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9810, XCOMET = 0.9591
+  Prediction (Cleaned): vrouw die afkomstig is uit Wageningen
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9611, XCOMET = 1.0000
+  Prediction (Cleaned): vrouw die afkomstig is uit de gemeente Wageningen
+
+================================================================================
+COMPARISON SAMPLE #7 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9592)
+Lemma: horeca-exploitant
+Source (Short Definition): uitbater van een horecabedrijf
+Reference (Full Definition): iemand die voor zijn beroep een horecabedrijf uitbaat
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9770, XCOMET = 0.9775
+  Prediction (Cleaned): iemand die voor zijn beroep een horecabedrijf uitbaat
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9592, XCOMET = 1.0000
+  Prediction (Cleaned): iemand die voor zijn beroep een horecabedrijf exploiteert
+
+================================================================================
+COMPARISON SAMPLE #8 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9572)
+Lemma: beroepsvereniging
+Source (Short Definition): belangenvereniging van mensen met hetzelfde beroep
+Reference (Full Definition): vereniging van personen die hetzelfde beroep uitoefenen en gezamenlijk opkomen voor hun belangen
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9662, XCOMET = 0.9910
+  Prediction (Cleaned): vereniging van mensen die hetzelfde beroep uitoefenen en gezamenlijk opkomen voor hun belangen
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9348, XCOMET = 1.0000
+  Raw Output: Lange definitie: vereniging van personen met hetzelfde beroep die gezamenlijk opkomen voor hun belangen
+  Prediction (Cleaned): vereniging van personen met hetzelfde beroep die gezamenlijk opkomen voor hun belangen
+
+================================================================================
+COMPARISON SAMPLE #9 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9571)
+Lemma: groepsspreekuur
+Source (Short Definition): spreekuur voor meer patiënten
+Reference (Full Definition): spreekuur waarbij meer patiënten met een gelijksoortige, vaak chronische aandoening tegelijkertijd geholpen worden
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.7783, XCOMET = 0.9274
+  Prediction (Cleaned): spreekuur dat wordt gehouden door een arts voor een aantal patiënten die dezelfde klacht of ziekte hebben
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9590, XCOMET = 0.9981
+  Prediction (Cleaned): spreekuur waarbij meer patiënten met een gelijksoortige, vaak chronische, aandoening tegelijkertijd geholpen worden
+
+================================================================================
+COMPARISON SAMPLE #10 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9559)
+Lemma: lifestylecoach
+Source (Short Definition): coach voor lifestyle
+Reference (Full Definition): iemand die mensen advies geeft op het gebied van voeding en beweging
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.8382, XCOMET = 0.8794
+  Prediction (Cleaned): coach die mensen adviseert en begeleidt op het gebied van hun leefstijl
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9608, XCOMET = 0.9951
+  Raw Output: Lange definitie: iemand die mensen advies geeft op het gebied van voeding en beweging.
+  Prediction (Cleaned): iemand die mensen advies geeft op het gebied van voeding en beweging.
+
+================================================================================
+COMPARISON SAMPLE #11 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 101 (Few-Shot) (Score: 1.9556)
+Lemma: meisjesmeisje
+Source (Short Definition): zeer meisjesachtig meisje
+Reference (Full Definition): meisje dat zich zeer meisjesachtig gedraagt en kleedt
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.6646, XCOMET = 0.9105
+  Prediction (Cleaned): meisje dat zeer meisjesachtig is
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9583, XCOMET = 0.9973
+  Prediction (Cleaned): Een meisje dat zich zeer meisjesachtig gedraagt en kleedt.
+
+================================================================================
+COMPARISON SAMPLE #12 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9541)
+Lemma: eenoudergezin
+Source (Short Definition): gezin met één ouder
+Reference (Full Definition): gezin dat bestaat uit één ouder met een of meer kinderen
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9694, XCOMET = 0.9847
+  Prediction (Cleaned): gezin dat bestaat uit één ouder en een of meer kinderen
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9727, XCOMET = 1.0000
+  Raw Output: Lange definitie: gezin dat bestaat uit één ouder en een of meer kinderen
+  Prediction (Cleaned): gezin dat bestaat uit één ouder en een of meer kinderen
+
+================================================================================
+COMPARISON SAMPLE #13 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9541)
+Lemma: roetschade
+Source (Short Definition): schade door roet
+Reference (Full Definition): schade die veroorzaakt wordt door roet
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9762, XCOMET = 0.9778
+  Prediction (Cleaned): schade die wordt veroorzaakt door roet
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9533, XCOMET = 1.0000
+  Raw Output: Lange definitie: schade veroorzaakt door roet.
+  Prediction (Cleaned): schade veroorzaakt door roet.
+
+================================================================================
+COMPARISON SAMPLE #14 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9431)
+Lemma: poëziewedstrijd
+Source (Short Definition): wedstrijd in het schrijven van gedichten
+Reference (Full Definition): wedstrijd waarbij de deelnemers een gedicht schrijven en een jury bepaalt wie daarin het beste is geslaagd
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9695, XCOMET = 0.9736
+  Prediction (Cleaned): wedstrijd waarbij de deelnemers een gedicht schrijven en een jury bepaalt wie daarin het beste geslaagd is
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.7641, XCOMET = 0.9431
+  Raw Output: Lange definitie: poëziewedstrijd is een wedstrijd in het schrijven van gedichten.
+  Prediction (Cleaned): poëziewedstrijd is een wedstrijd in het schrijven van gedichten.
+
+================================================================================
+COMPARISON SAMPLE #15 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9406)
+Lemma: trouwplanner
+Source (Short Definition): iemand die bruiloften organiseert
+Reference (Full Definition): iemand die zich voor zijn beroep bezighoudt met de organisatie van bruiloften
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9607, XCOMET = 0.9799
+  Prediction (Cleaned): iemand die zich voor zijn beroep bezighoudt met het organiseren van bruiloften
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.7330, XCOMET = 1.0000
+  Prediction (Cleaned): Een trouwplanner is iemand die bruiloften organiseert.
+
+================================================================================
+COMPARISON SAMPLE #16 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9401)
+Lemma: staalproduct
+Source (Short Definition): product van staal
+Reference (Full Definition): product waarin staal de belangrijkste grondstof is
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9716, XCOMET = 0.9685
+  Prediction (Cleaned): product waarvan staal de belangrijkste grondstof is
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9818, XCOMET = 1.0000
+  Prediction (Cleaned): Product waarin staal de belangrijkste grondstof is
+
+================================================================================
+COMPARISON SAMPLE #17 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9366)
+Lemma: benoemingstermijn
+Source (Short Definition): termijn waarvoor iemand benoemd wordt
+Reference (Full Definition): termijn waarvoor iemand in een bepaalde functie benoemd wordt
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9562, XCOMET = 0.9804
+  Prediction (Cleaned): termijn waarvoor iemand voor een functie of ambt wordt benoemd
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9632, XCOMET = 0.9854
+  Raw Output: Lange definitie: termijn waarvoor iemand benoemd wordt
+  Prediction (Cleaned): termijn waarvoor iemand benoemd wordt
+
+================================================================================
+COMPARISON SAMPLE #18 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9347)
+Lemma: dorpswinkelier
+Source (Short Definition): uitbater van een dorpswinkel
+Reference (Full Definition): iemand die voor zijn beroep de dorpswinkel uitbaat
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9581, XCOMET = 0.9766
+  Prediction (Cleaned): iemand die voor zijn beroep een dorpswinkel uitbaat
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.9227, XCOMET = 0.9997
+  Prediction (Cleaned): iemand die voor zijn beroep of als vrijwilliger een dorpswinkel uitbaat
+
+================================================================================
+COMPARISON SAMPLE #19 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9344)
+Lemma: aspergerobot
+Source (Short Definition): machine om asperges te oogsten
+Reference (Full Definition): machine die gebruikt wordt om asperges te oogsten
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9661, XCOMET = 0.9683
+  Prediction (Cleaned): machine die wordt gebruikt om asperges te oogsten
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.8457, XCOMET = 0.9385
+  Prediction (Cleaned): Aspergerobot: machine om asperges te oogsten
+
+================================================================================
+COMPARISON SAMPLE #20 (Overall Rank)
+--------------------------------------------------------------------------------
+Triggered by High Score from: Aya 23 (Fine-Tuned) (Score: 1.9343)
+Lemma: kleutertuin
+Source (Short Definition): gebouw van een kleutertuin
+Reference (Full Definition): gebouw waarin een kleutertuin is gehuisvest
+--------------------------------------------------------------------------------
+Output from Aya 23 (Fine-Tuned):
+  Scores: COMET-22 = 0.9653, XCOMET = 0.9690
+  Prediction (Cleaned): gebouw waarin een kleutertuin gehuisvest is
+
+Output from Aya 101 (Few-Shot):
+  Scores: COMET-22 = 0.7124, XCOMET = 0.9687
+  Prediction (Cleaned): Een kleutertuin is een kinderdagverblijf of peuterspeelzaal voor kinderen van 0 tot 5 jaar.
+
+
+
+

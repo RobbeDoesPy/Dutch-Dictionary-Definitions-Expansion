@@ -1,0 +1,5 @@
+;"Adapted for ""Volledige definitie""";"Adapted for ""Lange definitie""";Unchanged;Percentage Adapted (%);"Table 2: Summary of Preprocessing Steps for Few-Shot Model Outputs.
+The table details the cleaning applied to the outputs of each few-shot model, based on a total of 3450 predictions per model. It shows the number of predictions adapted from specific templates versus those left unchanged."
+AYA-23 (Few-shot);1238;1966;246;92.87;
+Geitje (Few-shot);0;684;2766;19.83;
+AYA-101 (Few-shot);0;1649;1801;47.8;

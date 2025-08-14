@@ -1,0 +1,17 @@
+Metrics Summary for aya-101 (few_shot)
+
+--- ROUGE Scores ---
+{'rouge1': 0.41794676818867504, 'rouge2': 0.2765226833516632, 'rougeL': 0.39202234238813816, 'rougeLsum': 0.3914828546276212}
+
+--- BLEU Score ---
+{'bleu': 0.21527860217008926, 'precisions': [0.36487533455416254, 0.24009223501181057, 0.1959275292608626, 0.17361649023151735], 'brevity_penalty': 0.9214008341774264, 'length_ratio': 0.9243339138360378, 'translation_length': 56792, 'reference_length': 61441}
+
+--- BERTScore ---
+   Average Precision: 0.7750
+      Average Recall: 0.7531
+          Average F1: 0.7622
+
+--- COMET Scores ---
+            COMET-22: 0.6801
+           COMETkiwi: 0.6694
+              XCOMET: 0.7650

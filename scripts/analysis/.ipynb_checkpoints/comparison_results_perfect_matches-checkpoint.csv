@@ -1,0 +1,9 @@
+Model;Exact Match;Exact Match (%);Normalized Match (case/period);Normalized Match (%);"Table 1: Comparison of Model Performance in Definition Generation.
+Performance metrics for various models evaluated on a dataset of 3,450 definitions. ""Normalized Match"" counts matches after ignoring capitalization of the first letter and trailing periods."
+AYA-23 (Few-shot);0;0.0;0;0.0;
+AYA-23 (Fine-tuned);258;7.48;258;7.48;
+AYA-101 (Few-shot);322;9.33;341;9.88;
+AYA-101 (Fine-tuned);247;7.16;247;7.16;
+Geitje (Few-shot);2;0.06;7;0.2;
+Geitje (Fine-tuned);277;8.03;277;8.03;
+mT5-xl (Fine-tuned);166;4.81;166;4.81;
