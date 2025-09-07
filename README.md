@@ -1,6 +1,6 @@
 # Dutch Dictionary Definition Expansion
 
-This repository contains the models and data for the thesis 'Transformer-based Expansion of Dutch Dictionary Definitions' which explores the automated expansion of Dutch dictionary definitions using Large Language Models.
+This repository contains the code and data for the thesis 'Transformer-based Expansion of Dutch Dictionary Definitions' which explores the automated expansion of Dutch dictionary definitions using Large Language Models.
 
 ## Models
 
