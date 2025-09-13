@@ -2,7 +2,7 @@
 
 This repository contains the code and data for the thesis 'Transformer-based Expansion of Dutch Dictionary Definitions' written by Robbe Meersman. It explores the automated expansion of Dutch dictionary definitions using Large Language Models.
 <br><br>
-_Grade: 16.5/20_
+**Grade: 16.5/20**
 
 ## Models
 
